@@ -8,12 +8,12 @@
 		<version>2.4.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>org.hcl.handlingUserAuthentication</groupId>
-	<artifactId>handling-user-authentication</artifactId>
+	<groupId>org.hcl</groupId>
+	<artifactId>handle-authentication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>handling-user-authentication</name>
-	<description>HCL Assessment</description>
+	<name>handle-authentication</name>
+	<description>hcl assessment</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
